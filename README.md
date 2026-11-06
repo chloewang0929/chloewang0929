@@ -1,6 +1,5 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Chloe Wang</h1>
-<h3 align="center">A passionate business analyst at Carnegie Mellon</h3>
 
 - 📫 How to reach me **w.chloe0929@gmail.com**
 
